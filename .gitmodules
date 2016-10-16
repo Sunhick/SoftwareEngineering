@@ -1,8 +1,8 @@
 [submodule "Homework01"]
 	path = Homework01
 	url = git@github.com:Sunhick/Homework01.git
-[submodule "Homework02"]
-	path = Homework02
+[submodule "homework02"]
+	path = homework02
 	url = git@github.com:Sunhick/homework02.git
 [submodule "Homework03"]
 	path = Homework03
